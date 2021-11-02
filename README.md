@@ -3,9 +3,9 @@
 
 3 simple fractal illustrations written in HTML5 Canvas, JavaScript/TypeScript. Mostly focused around the Math behind it.
 
-[Link to website](https://simonfrom.netlify.app/)
+[Link to website hosted on Netlify](https://sfj-3-fractals.netlify.app/)
 
-## Mandelbrot set [Link to "Mandelbrot"](https://simonfrom.netlify.app/mandelbrot.html)
+## Mandelbrot set [Link to "Mandelbrot"](https://sfj-3-fractals.netlify.app/mandelbrot.html)
 
 **This one takes a long time to load**
 
@@ -15,7 +15,7 @@ Bottom slider is algorythmic iterations per pixel (bigger is slower)
 
 ### [Source](/src/mandelbrot.ts)
 
-## Koch curve [Link to "Fractal"](https://simonfrom.netlify.app/fractal.html)
+## Koch curve [Link to "Fractal"](https://sfj-3-fractals.netlify.app/fractal.html)
 
 This is also called the snow flake fractal
 
@@ -37,7 +37,7 @@ Bottom slider does nothing
 | `firestreg` | "fourlines" |
 | `tegnStreg` | eqv. to `drawLine` |
 
-## Sierpinski triangle / Pascal modulo 2 [Link to "Trianglefractal"](https://simonfrom.netlify.app/trianglefractal)
+## Sierpinski triangle / Pascal modulo 2 [Link to "Trianglefractal"](https://sfj-3-fractals.netlify.app/trianglefractal)
 
 Both sliders does nothing.
 
