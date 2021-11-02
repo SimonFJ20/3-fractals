@@ -1,6 +1,8 @@
 
 # 3 Fractal problems
 
+3 simple fractal illustrations written in HTML5 Canvas, JavaScript/TypeScript. Mostly focused around the Math behind it.
+
 [Link to website](https://simonfrom.netlify.app/)
 
 ## Mandelbrot set [Link to "Mandelbrot"](https://simonfrom.netlify.app/mandelbrot.html)
